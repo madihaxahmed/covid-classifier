@@ -1,6 +1,6 @@
 # Detecting Presence of COVID19 in Patients from Chest X-Ray Images Using CNN-Deep Learning.
 ### Abstract
-<b>In this project, we were asked to experiment with a real-world dataset, and develop an advanced ML based Classifier that can scan chest XRays and COVID19 cases. After performing the required tasks on a dataset of my choice, herein lies my final report.</b></br>
+<b>In this project, I experimented with a real-world dataset, and develop an advanced ML based Classifier that can scan chest XRays and COVID19 cases. After performing the required tasks on a dataset of my choice, herein lies my final report.</b></br>
 *Keywords*: Machine Learning | Classification | Artificial Intelligence | CNN
 ### Introduction
 Corona virus disease (COVID-19) is an infectious disease caused by a newly discovered corona virus.Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment. Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.</br>
@@ -92,8 +92,8 @@ Training Accuracy (CNN) | 95.22
 Test Accuracy (CNN) 96.00 | 115
 
 ### Images
-![Fig 1. Result after 10 epochs of validation steps of 2 and batch size of 32.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2_new.png)
+![Fig 1. Result after 10 epochs of validation steps of 2 and batch size of 32.](https://github.com/madihaxahmed/covid-classifier/blob/main/Images/Fig2_new.png)
 **Fig 1. Result after 10 epochs of validation steps of 2 and batch size of 32.**
 
-![Fig 2. Prediction by Model.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2.png)</br>
+![Fig 2. Prediction by Model.](https://github.com/madihaxahmed/covid-classifier/blob/main/Images/Fig2.png)</br>
  **Fig 2. Prediction by Model.**
